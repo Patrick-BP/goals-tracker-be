@@ -1,0 +1,4 @@
+{
+    "DB_URL": "mongodb+srv://papybp:0808656825@cluster0.czupgaa.mongodb.net/goaltrackerdb",
+    "PRIVATE_KEY":"CS571_ANGULAR"
+}
